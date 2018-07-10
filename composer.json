@@ -1,0 +1,12 @@
+{
+    "name": "devdojo/calculator",
+    "description": "Demo package",
+    "authors": [
+        {
+            "name": "ryuu rin",
+            "email": "vulongepu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
